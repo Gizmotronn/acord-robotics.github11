@@ -5,3 +5,5 @@ We need to add a domain - namecheap. This is for acord blog posts, just a conven
 allianceofdroids.org.au
 blog.larbuckle.tech
 this repo
+
+also need to update divi visual builder
