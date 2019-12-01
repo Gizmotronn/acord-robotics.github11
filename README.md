@@ -6,4 +6,4 @@ allianceofdroids.org.au
 blog.larbuckle.tech
 this repo
 
-also need to update divi visual builder
+also need to update divi visual builder - possibly make divi main theme, olympus for membership parts (customization), backup needed
