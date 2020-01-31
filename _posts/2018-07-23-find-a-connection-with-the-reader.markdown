@@ -2,7 +2,7 @@
 layout: post
 title: 'New Integrations '
 date: '2020-01-29 15:01:35 +0300'
-image: New Integrations.png
+image: bn.png
 tags: Resources
 published: true
 ---
