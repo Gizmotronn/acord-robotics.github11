@@ -1,37 +1,37 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: ACORD Blog
 logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: Software Development Company
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
-  image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  name: ACORD Robotics
+  image: retrieval_team_by_macrebisz_dbfocxw-pre.jpg
+  say-hello: Hello, we're the ACORD Team
+  bio: A software, scientific engineering and writing organization based in Australia. Est. 2015 as Alliance of Droids, renamed to ACoRD Robotics in 2019. # Liam's bio: Designs, talks, and writes about <strong>web design</strong>, <strong>development</strong>, <strong>science</strong>, and gaming. I, along with my team at ACORD, will keep you updated with what's going on.
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
+twitter: https://twitter.com/OpusTheRobot # Add your Twitter handle
+facebook: https://facebook.com/Droidology # Add your Facebook handle
 dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
+instagram: https://instagram.com/droidology # Add your Instagram handle
 pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: acordrobotics # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
 instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: droidology # Add instagram username
 
 
 #-------------------------------
