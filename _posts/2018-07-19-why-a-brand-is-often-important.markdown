@@ -37,3 +37,4 @@ To make it worse, the service you use will typically manage the publishing of yo
 By all means, if none of this bothers you you're free to keep using services like Appypie, or to make your own native apps. There is no disadvantage with having a native app, especially if you're a big company. Everyone knows how to download apps onto their devices today. But if you want to have most of the advantages of a native app without the cost, there is a solution. It's called a "Progressive Web App". Be warned: while it is cheaper to make, unless you get someone else to do it for you it is a *lot* of work.
 
 # Progressive web apps vs native apps
+Progressive web apps are basically websites that 
