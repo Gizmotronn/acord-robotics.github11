@@ -37,4 +37,14 @@ To make it worse, the service you use will typically manage the publishing of yo
 By all means, if none of this bothers you you're free to keep using services like Appypie, or to make your own native apps. There is no disadvantage with having a native app, especially if you're a big company. Everyone knows how to download apps onto their devices today. But if you want to have most of the advantages of a native app without the cost, there is a solution. It's called a "Progressive Web App". Be warned: while it is cheaper to make, unless you get someone else to do it for you it is a *lot* of work.
 
 # Progressive web apps vs native apps
-Progressive web apps are basically websites that 
+Progressive web apps are basically websites that act as a native application on your smartphone. They still open in a web browser, however instead of opening in chrome or safari, it would open in a special branded tab. If you went to your recent apps screen, it would show an "app" called "App Name here" rather than "Web Browser". Anything you can do on a web browser, you can do on a PWA.
+
+There are also some other benefits. If a big part of your website is sharing photos, you can gain access to the camera on a user's smartphone using a PWA. They are really easy to install for your user.
+
+# How to set up your own PWA
+Depending on what system you're using for your website, there are a number of solutions. Wordpress's "WPTouch" creates progressive web apps, however this is a premium plugin. If you're using Bootstrap, you're going to have to get your hands dirty.
+
+There are plenty of great tutorials all over Google if you're looking to set one up.
+
+# ACORD is working on a PWA
+With the revamp of our new network, we're working on a PWA that will be installed from the home page of our Bootstrap site. Check back to this blog for more news about our progress!
