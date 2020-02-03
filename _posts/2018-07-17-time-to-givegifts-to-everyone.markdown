@@ -12,4 +12,4 @@ In a lot of software start-ups, things are very different. A lot of companies th
 
 Traditional office-based jobs are very static. What I mean by this is that you may be using an application for your work, however your day-to-day work will be very much the same. Project management tools and version control systems are not usually needed.
 
-This is why, when a tech company starts up, they need to have a dedicated knowledge base. 
+This is why, when a tech company starts up, they need to have a dedicated knowledge base so that everyone knows how the system works. For example, at ACORD, we have a number of websites, all of which are used and maintained by our developers. We use applications like visual studio code, discord, slack, outline, notion, and online applications like GSuite, Office, Github, & Zenhub. The current way that all this works together is very complicated, and while we are working on trimming it down and cutting the fat out of it, even perfect systems need some sort of knowledge base for new members/employees.
