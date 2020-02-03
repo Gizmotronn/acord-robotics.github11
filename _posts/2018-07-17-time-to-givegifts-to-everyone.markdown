@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Time to give gifts to everyone
-date:   2018-07-17 15:01:35 +0300
-image:  04.jpg
-tags:   Life
+title: Repository of knowledge
+date: '2020-02-03 15:01:35 +0300'
+image: Screen-Shot-2018-02-28-at-2.50.11-PM.jpg
+tags: repository
+published: true
 ---
 Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
 
