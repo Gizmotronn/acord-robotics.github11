@@ -16,4 +16,5 @@ This is why, when a tech company starts up, they need to have a dedicated knowle
 
 There are a number of online tools like Gitbook, Notion, and even plugins for CMSs like Wordpress & Drupal. However, you don't want to have too many plugins on a CMS site in the interests of good loading time (especially if you live in Australia, our internet is horrible). Having multiple websites can be a bad thing if you have to log into multiple sites (like you **currently** have to on ACORD), however if you make your knowledge base public it's not as bad (especially if you use iframe elements to embed all your sites together, like we do). Another solution is Wordpress Multisite, where you have multiple sites on one installation. This means that all the users sync across (avoiding the multiple login problem), however each site can have different plugins. 
 
-In the interests of open-source-ness, and simplicity, I'll be using a git-based solution for our knowledge base, however it is easy to transfer the content between different systems if we choose to do so in the future.
+In the interests of open-source-ness, and simplicity, I'll be using a git-based solution for our knowledge base, however it is easy to transfer the content between different systems if we choose to do so in the future. 
+
