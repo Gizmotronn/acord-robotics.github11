@@ -18,3 +18,7 @@ There are a number of online tools like Gitbook, Notion, and even plugins for CM
 
 In the interests of open-source-ness, and simplicity, I'll be using a git-based solution for our knowledge base, however it is easy to transfer the content between different systems if we choose to do so in the future. 
 
+# The best solutions
+## Gitbook
+Gitbook's tagline is "Document Everything", and with the sleek and intuitive user interface that you're presented with, it's hard not to. Gitbook makes writing documentation (which is something that I find fun, but a lot of other programmers don't) fun and easy, and it integrates well with existing github repositories.
+
