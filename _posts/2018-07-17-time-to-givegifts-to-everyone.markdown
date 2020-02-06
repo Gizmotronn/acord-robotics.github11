@@ -22,4 +22,9 @@ In the interests of open-source-ness, and simplicity, I'll be using a git-based 
 ## Gitbook
 Gitbook's tagline is "Document Everything", and with the sleek and intuitive user interface that you're presented with, it's hard not to. Gitbook makes writing documentation (which is something that I find fun, but a lot of other programmers don't) fun and easy, and it integrates well with existing github repositories. 
 
-You can choose to either push or pull commits/files from or to Github with Gitbook - what this means is that you can 
+You can choose to either push or pull commits/files from or to Github with Gitbook - what this means is that you can choose to connect your gitbook base to a github repository of your choosing, and you can either edit the files in your knowledge base (which are in markdown format) in github or on the gitbook dashboard.
+
+## Custom Bootstrap Themes
+Github pages is a great way to host static sites made from generators like Jekyll & GoHugo, but by far one of the best and most extensive is Bootstrap, which uses a combination of HTML, CSS & Javascript to help you create stunning websites and webpages. Millions of people around the world use Bootstrap (including us at ACoRD), and therefore you'd be expecting that there's many themes to choose from. And there are! Sites like themeforest, which are well known for their website development tools and assets, have thousands of bootstrap themes developed by professional developers around the world. Sites like bootstrapmade.com & Material Design Bootstrap both have tutorials on creating your own themes and if you are just wanting to try Bootstrap out without paying anything, don't worry - more than half the themes currently in circulation on the interwebs are free! 
+
+Since Bootstrap is 
