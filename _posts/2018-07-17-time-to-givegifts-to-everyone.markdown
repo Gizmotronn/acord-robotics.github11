@@ -20,5 +20,6 @@ In the interests of open-source-ness, and simplicity, I'll be using a git-based 
 
 # The best solutions
 ## Gitbook
-Gitbook's tagline is "Document Everything", and with the sleek and intuitive user interface that you're presented with, it's hard not to. Gitbook makes writing documentation (which is something that I find fun, but a lot of other programmers don't) fun and easy, and it integrates well with existing github repositories.
+Gitbook's tagline is "Document Everything", and with the sleek and intuitive user interface that you're presented with, it's hard not to. Gitbook makes writing documentation (which is something that I find fun, but a lot of other programmers don't) fun and easy, and it integrates well with existing github repositories. 
 
+You can choose to either push or pull commits/files from or to Github with Gitbook - what this means is that you can 
