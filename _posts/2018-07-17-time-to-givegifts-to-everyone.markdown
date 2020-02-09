@@ -27,4 +27,4 @@ You can choose to either push or pull commits/files from or to Github with Gitbo
 ## Custom Bootstrap Themes
 Github pages is a great way to host static sites made from generators like Jekyll & GoHugo, but by far one of the best and most extensive is Bootstrap, which uses a combination of HTML, CSS & Javascript to help you create stunning websites and webpages. Millions of people around the world use Bootstrap (including us at ACoRD), and therefore you'd be expecting that there's many themes to choose from. And there are! Sites like themeforest, which are well known for their website development tools and assets, have thousands of bootstrap themes developed by professional developers around the world. Sites like bootstrapmade.com & Material Design Bootstrap both have tutorials on creating your own themes and if you are just wanting to try Bootstrap out without paying anything, don't worry - more than half the themes currently in circulation on the interwebs are free! 
 
-Since Bootstrap is 
+Since Bootstrap is quite
