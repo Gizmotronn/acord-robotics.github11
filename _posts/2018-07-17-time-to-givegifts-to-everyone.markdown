@@ -6,6 +6,9 @@ image: Screen-Shot-2018-02-28-at-2.50.11-PM.jpg
 tags: repository
 published: true
 ---
+
+{% include jointcomments.html %}
+
 Every company needs to have a good knowledge base, especially software start-ups. In a traditional office job, a new employee may be given a tour of the venue they will be spending their days in, as well as given information via word-of-mouth about what work they will be doing. Work shadowing may be done for the first few weeks as well.
 
 In a lot of software start-ups, things are very different. A lot of companies that deal with software engineering have most of their employees working from home, rather than working in an office. There are also a lot of jobs that need to be done. If you worked in an office, your job may be to pull in data from external sources, categorize it and write a report on it (this is a bit of what my dad does, actually). When you're a software developer, you'll be working with systems like git and applications like visual studio. 
