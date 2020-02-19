@@ -3,15 +3,26 @@ layout: post
 title: Constructing Social Networks
 date: '2020-02-18 15:01:35 +0300'
 image: socialwebconstruct.png
-tags: 'Social Network, Construction, Web Design'
+tags: 'Social-Network Construction Web Design'
 published: true
 ---
+
 We're all on social media, and we're always on the lookout for groups around the interwebs that house people with similar interests to us. We comment on forum boards and say our thoughts in the replies of various blog posts, but what's the best way to make your own social network that is engaging and people will use?
-
-
-
-Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you! .
 
 {% include jointcomments.html %}
 
-Since 2016, I, and AC0/RD have used Wordpress (a content management system that incidentally is the software used for over 25% of the world's websites) for our social media. I never paid much
+Since 2016, I, and AC0/RD have used Wordpress (a content management system that incidentally is the software used for over 25% of the world's websites) for our social media. I never paid much attention to the comments system on Wordpress, because the main stuff happened on the forums, and I considered the comments section to just be for non-members posting comments on the blog posts (at the time, our website was entirely log-in only and that's why comments were not high up on the priority list for us). However, comments systems like Disqus can be used for a type of forum, and that's one of the things I'll be talking about in this post.
+
+# Things a social network needs
+Your website is a social network if it has any of the following types of user interaction:
+* Games - for example web-based RPGs
+* Comments sections - mainly used in blog posts
+* Q&A Forums
+* Support Forums
+* Community Forums
+* User profiles
+* User gamification
+* User groups 
+* + more user stuff (check out something like Buddypress to see what you can do with membership sites!)
+
+I'm going to over each of these in-depth over the course of this post. I'd also recommend checking out [my post on HTML dashboards](https://acord-robotics.github.io/acord-robotics.github11//2020/02/23/start-the-day-with-the-right-habit/ "HTML Dashboards") as it's a good way to get all the community traffic in one place.
