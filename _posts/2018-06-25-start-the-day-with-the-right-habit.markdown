@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTML Dashboards
-date: '2020-02-23:01:35 +0300'
+date: '2020-02-23 :01:35 +0300'
 image: 06.jpg
 tags: Dashboard Social Network Websites
 published: true
