@@ -7,7 +7,7 @@ tags: 'Social Network, Construction, Web Design'
 published: true
 ---
 We're all on social media, and we're always on the lookout for groups around th
-
+{% include jointcomments.html %}
 Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
 
 You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You people wonder why I'm still single?__ *It's 'cause all the fine robot sisters are dating humans!* I guess if you want children beaten, you have to do it yourself.
