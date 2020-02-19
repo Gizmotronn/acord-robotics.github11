@@ -2,7 +2,7 @@
 layout: post
 title: HTML Dashboards
 date: '2020-02-23 15:01:35 +0300'
-image: dashboard-image.png
+image: architectui-html-bootstrap-dashboard.jpg
 tags: Dashboard Social Network Websites
 published: true
 ---
