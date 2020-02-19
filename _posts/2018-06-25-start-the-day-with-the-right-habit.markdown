@@ -8,6 +8,8 @@ published: true
 ---
 Dashboards are a very big project to undertake, but they're also something very important to AC0/RD. In this post, I'll talk about what dashboards are and how ours will work.
 
+{% include jointcomments.html %}
+
 You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You people wonder why I'm still single?__ *It's 'cause all the fine robot sisters are dating humans!* I guess if you want children beaten, you have to do it yourself.
 
 ## Are you crazy? I can't swallow that.
