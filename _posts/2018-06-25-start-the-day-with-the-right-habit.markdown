@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Start the day with the right habit
-date:   2018-06-25 15:01:35 +0300
-image:  06.jpg
-tags:   Style
+title: HTML Dashboards
+date: '2020-02-23:01:35 +0300'
+image: 06.jpg
+tags: Dashboard Social Network Websites
+published: true
 ---
-Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
+Dashboards are a very big project to undertake, but they're also something very important to AC0/RD. In this post, I'll talk about what dashboards are and how ours will work.
 
 You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You people wonder why I'm still single?__ *It's 'cause all the fine robot sisters are dating humans!* I guess if you want children beaten, you have to do it yourself.
 
