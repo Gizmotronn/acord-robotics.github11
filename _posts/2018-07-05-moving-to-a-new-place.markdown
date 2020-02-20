@@ -29,6 +29,18 @@ I'm going to over each of these in-depth over the course of this post. I'd also 
 
 > "Your dashboard is a great place to keep track of all the activity from your users
 
-Most platforms that are used by developers can do most of the things mentioned above, but it can take a bit of fiddling around if you use a static site platform like Bootstrap, Jekyll or GoHugo. I'd recommend checking out [Codepen](http://codepen.io) for code snippets, which you can then modify yourself to fit your needs.
+Most platforms that are used by developers can do most of the things mentioned above, but it can take a bit of fiddling around if you use a static site platform like Bootstrap, Jekyll or GoHugo. I'd recommend checking out [Codepen](http://codepen.io) for code snippets, which you can then modify yourself to fit your needs. If you're using Wordpress or another CMS, it's easy enough to set-up - just install a plugin like Buddypress or PeepSo. You do want to make sure that you don't have too many plugins installed on Wordpress, though, as it runs the risk of your site loading incredibly slowly (at our "peak", the AC0/RD website was taking upwards of 15 seconds to load)...
+
+Let's take a look at the best platforms for creating a social network:
+
+# Wordpress
+![]({{site.baseurl}}/https://www.wpexplorer.com/wp-content/uploads/wordpress-com-vs-org-infographic.png)
+When we talk about Wordpress, we're talking about Wordpress.org, not wordpress.com - also known as the self-hosted version.
+
+
+
+
+###### Image credit
+* [Wordpress.org Infographic](https://www.wpexplorer.com/wp-content/uploads/wordpress-com-vs-org-infographic.png)
 
 
