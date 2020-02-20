@@ -35,7 +35,9 @@ Let's take a look at the best platforms for creating a social network:
 
 # Wordpress
 ![](https://www.wpexplorer.com/wp-content/uploads/wordpress-com-vs-org-infographic.png)
-When we talk about Wordpress, we're talking about Wordpress.org, not wordpress.com - also known as the self-hosted version.
+When we talk about Wordpress, we're talking about Wordpress.org, not wordpress.com - also known as the self-hosted version. I'm not going to explain the differences between Wordpress & Wordpress.com, but there's a great blog post that you should check out: https://ithemes.com/tutorials/wordpress-com-vs-wordpress-org/
+
+Wordpress (.org) is extremely extensible, with over 50,000 plugins freely available on the Wordpress repository, and many thousands of companies that develop premium themes and plugins. One of the most popular, and most important, is Buddypress, which is actually developed by the Wordpress community (i.e. it is open-source). 
 
 
 
