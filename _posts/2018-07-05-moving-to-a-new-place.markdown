@@ -2,7 +2,8 @@
 layout: post
 title: Constructing Social Networks
 date: '2020-02-18 15:01:35 +0300'
-image: socialwebconstruct.png
+image: >-
+  https://socialengineindia.com/blog/wp-content/uploads/2019/01/social-networking-service.jpg
 tags: Social-Network Construction Web Design
 published: true
 ---
