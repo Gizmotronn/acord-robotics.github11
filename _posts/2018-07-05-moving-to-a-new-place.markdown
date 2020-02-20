@@ -88,6 +88,11 @@ If you have a free buddypress extension from an open-source developer, it's not 
 
 The downside to this is that a lot of these plugins are expensive, especially if you're starting out. While you can monetize your site, it takes time to get money back - as you're not likely to have many frequent visitors from the go. Furthermore, you need to pay for hosting and a domain name AND keep on top of your job - it can all be a bit much (for those that build websites for a living and are reading this post, I apologise).
 
+# Part 2 of "Constructing a social network" coming 25th February 2020.
+Have a cookie while you wait.
+
+Maybe a few cookies would be good.
+
 But we've just hit the nail on the head - 
 
 > "You're not likely to have many frequent visitors from the go
