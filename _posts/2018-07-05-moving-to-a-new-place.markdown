@@ -11,6 +11,13 @@ We're all on social media, and we're always on the lookout for groups around the
 
 {% include jointcomments.html %}
 
+# Contents
+* [Things you need](#things-a-social-network-needs)
+* [Wordpress](#wordpress)
+   * [Buddypress](#buddypress)
+    	* [Plugins for Buddypress](#plugins-for-buddypress)
+* [Bootstrap](#bootstrap)
+
 Since 2016, I, and AC0/RD have used Wordpress (a content management system that incidentally is the software used for over 25% of the world's websites) for our social media. I never paid much attention to the comments system on Wordpress, because the main stuff happened on the forums, and I considered the comments section to just be for non-members posting comments on the blog posts (at the time, our website was entirely log-in only and that's why comments were not high up on the priority list for us). However, comments systems like Disqus can be used for a type of forum, and that's one of the things I'll be talking about in this post.
 
 # Things a social network needs
@@ -41,6 +48,7 @@ Wordpress (.org) is extremely extensible, with over 50,000 plugins freely availa
 
 ![](https://socialengineindia.com/blog/wp-content/uploads/2019/01/social-networking-service.jpg)
 
+#### Buddypress
 Buddypress is a plugin that adds the following features to your wordpress website:
 
 * User profiles
@@ -62,7 +70,11 @@ This is already quite good, but with the availability of plugins that *extend* b
 
 ![](https://blog.hubspot.com/hs-fs/hubfs/Imported_Blog_Media/BuddyPress-Global-Search-2.png?width=1300&height=900&name=BuddyPress-Global-Search-2.png)
 
-Because Buddypress is open-source, anyone can update it and create their own plugins for it. 
+###### Plugins for buddypress
+
+Because Buddypress is open-source, anyone can update it and create their own plugins for it. This can be good, because as there are millions of PHP & Wordpress developers around the world, there's a huge chance that the plugin you're looking for to extend Buddypress (or any other part of your website, in fact) already exists. Even if it doesn't, you can always hire a developer to create a specific plugin for you, or learn how to do it yourself.
+
+The downside to this is that a lot of these plugins are expensive, especially if you're starting out 
 
 
 
