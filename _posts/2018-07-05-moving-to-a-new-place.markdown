@@ -3,7 +3,7 @@ layout: post
 title: Constructing Social Networks
 date: '2020-02-18 15:01:35 +0300'
 image: socialwebconstruct.png
-tags: 'Social-Network Construction Web Design'
+tags: Social-Network Construction Web Design
 published: true
 ---
 
@@ -26,3 +26,9 @@ Your website is a social network if it has any of the following types of user in
 * + more user stuff (check out something like Buddypress to see what you can do with membership sites!)
 
 I'm going to over each of these in-depth over the course of this post. I'd also recommend checking out [my post on HTML dashboards](https://acord-robotics.github.io/acord-robotics.github11//2020/02/23/start-the-day-with-the-right-habit/ "HTML Dashboards") as it's a good way to get all the community traffic in one place.
+
+> "Your dashboard is a great place to keep track of all the activity from your users
+
+Most platforms that are used by developers can do most of the things mentioned above, but it can take a bit of fiddling around if you use a static site platform like Bootstrap, Jekyll or GoHugo. I'd recommend checking out [Codepen](http://codepen.io) for code snippets, which you can then modify yourself to fit your needs.
+
+
