@@ -34,7 +34,7 @@ Most platforms that are used by developers can do most of the things mentioned a
 Let's take a look at the best platforms for creating a social network:
 
 # Wordpress
-![]({{site.baseurl}}/https://www.wpexplorer.com/wp-content/uploads/wordpress-com-vs-org-infographic.png)
+![](https://www.wpexplorer.com/wp-content/uploads/wordpress-com-vs-org-infographic.png)
 When we talk about Wordpress, we're talking about Wordpress.org, not wordpress.com - also known as the self-hosted version.
 
 
