@@ -39,10 +39,37 @@ When we talk about Wordpress, we're talking about Wordpress.org, not wordpress.c
 
 Wordpress (.org) is extremely extensible, with over 50,000 plugins freely available on the Wordpress repository, and many thousands of companies that develop premium themes and plugins. One of the most popular, and most important, is Buddypress, which is actually developed by the Wordpress community (i.e. it is open-source). 
 
+![](https://socialengineindia.com/blog/wp-content/uploads/2019/01/social-networking-service.jpg)
+
+Buddypress is a plugin that adds the following features to your wordpress website:
+
+* User profiles
+* Friends (like on Facebook)
+* User wall (status updates)
+* Groups
+* Private messaging between members
+* Notifications
+
+This is already quite good, but with the availability of plugins that *extend* buddypress, you'd be crazy to stop there. There's so much more that you can add:
+
+* Integration with your forum --> BBPress
+* User photo & video galleries --> RTMedia/Mediapress
+* Completely customize & re-skin Buddypress --> Youzer by Kainelabs $$
+* Buddypress User Blog --> Buddyboss $$
+* Buddyforms Members (alternative to BUB above)
+* Buddypress Global Search
+* Woocommerce Buddypress Integration --> Woocommerce (E-Commerce)
+
+![](https://blog.hubspot.com/hs-fs/hubfs/Imported_Blog_Media/BuddyPress-Global-Search-2.png?width=1300&height=900&name=BuddyPress-Global-Search-2.png)
+
+Because Buddypress is open-source, anyone can update it and create their own plugins for it. 
+
 
 
 
 ###### Image credit
 * [Wordpress.org Infographic](https://www.wpexplorer.com/wp-content/uploads/wordpress-com-vs-org-infographic.png)
+* [Cover art](https://socialengineindia.com/blog/wp-content/uploads/2019/01/social-networking-service.jpg)
+* [Buddypress Global Search](https://blog.hubspot.com/hs-fs/hubfs/Imported_Blog_Media/BuddyPress-Global-Search-2.png?width=1300&height=900&name=BuddyPress-Global-Search-2.png)
 
 
