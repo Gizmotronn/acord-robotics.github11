@@ -93,20 +93,10 @@ Have a cookie while you wait.
 
 Maybe a few cookies would be good.
 
-But we've just hit the nail on the head - 
 
-> "You're not likely to have many frequent visitors from the go
-
-You need to determine what your
-
-# Bootstrap
-
-# A quick word about Dashboards
 
 
 ###### Image credit
 * [Wordpress.org Infographic](https://www.wpexplorer.com/wp-content/uploads/wordpress-com-vs-org-infographic.png)
 * [Cover art](https://socialengineindia.com/blog/wp-content/uploads/2019/01/social-networking-service.jpg)
 * [Buddypress Global Search](https://blog.hubspot.com/hs-fs/hubfs/Imported_Blog_Media/BuddyPress-Global-Search-2.png?width=1300&height=900&name=BuddyPress-Global-Search-2.png)
-
-
