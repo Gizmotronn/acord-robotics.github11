@@ -12,9 +12,10 @@ Our team numbers have swelled to 4 for the development of Manacaster, and that's
 
 # Contents
 * [February Update](#development-update)
-* [Further Reading](#further-reading)
 	* [Game Script](#script)
     * [Game Art](#game-art)
+* [Further Reading](#further-reading)
+* [Resources](#resources-for-game-art)
 
 ## Development Update
 ### Script
@@ -50,3 +51,9 @@ Liam Arbuckle
 * [New Post](https://acord-robotics.github.io/stellarios/hydejack/2019-03-15-Star-Sailors-Plot/)
 
 * [Manacaster Script](http://acord-robotics.github.io/stellarios/manacaster-opening-act)
+
+# Resources for game art
+* [Itch.io - Background](https://itch.io/game-assets/free/tag-background)
+* [Itch.io - Free Assets](https://itch.io/game-assets/free)
+* [Open Game Art](https://opengameart.org/)
+* [More](https://www.google.com/search?q=free+game+art+backgrounds&rlz=1C1CHBF_en-GBAU885AU885&oq=free+game+art+backgrounds&aqs=chrome..69i57j35i39l2j0l2j69i60l3.3659j0j1&sourceid=chrome&ie=UTF-8)
