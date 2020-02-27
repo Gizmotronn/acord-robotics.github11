@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2020-02-27 15:01:35 +0300'
-image: Manacaster Update.jpg
+image: mana.jpg
 tags: Development Games Manacaster
 ---
 # Manacaster 
