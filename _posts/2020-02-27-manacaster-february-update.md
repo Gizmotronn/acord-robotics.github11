@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2020-02-27 15:01:35 +0300'
 image: Manacaster Update.png
