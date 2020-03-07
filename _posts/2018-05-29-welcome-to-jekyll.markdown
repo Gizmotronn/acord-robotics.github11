@@ -1,26 +1,30 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-05-29 18:05:55 +0300
-image:  10.jpg
-tags:   Jekyll
+title: Constructing Social Networks - Part 2
+date: '2018-05-29 18:05:55 +0300'
+image: 10.jpg
+tags: 'Social-Network, Wordpress, CMS, Websites'
+published: true
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This post is a draft.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Check out the [old post](https://acord-robotics.github.io/acord-robotics.github11//2020/02/18/moving-to-a-new-place/)
 
-Jekyll also offers powerful support for code snippets:
+# Contents
+* [Things a social network needs](https://acord-robotics.github.io/acord-robotics.github11//2020/02/18/moving-to-a-new-place/#things-a-social-network-needs)
+* [Wordpress](https://acord-robotics.github.io/acord-robotics.github11//2020/02/18/moving-to-a-new-place/#wordpress)
+	* [Buddypress](https://acord-robotics.github.io/acord-robotics.github11//2020/02/18/moving-to-a-new-place/)
+    
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Plugins for Buddypress
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+But we've just hit the nail on the head - 
+
+> "You're not likely to have many frequent visitors from the go
+
+You need to determine what your
+
+# Bootstrap
+
+# A quick word about Dashboards
